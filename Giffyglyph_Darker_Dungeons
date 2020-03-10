@@ -2,17 +2,17 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "DarkrDungeon",
-				"abbreviation": "DarkrDungeon",
+				"json": "GDD",
+				"abbreviation": "GDD",
 				"full": "Darker Dungeons",
 				"authors": [
 					"GIFFYGLYPH"
 				],
 				"convertedBy": [
-					"NiceMan"
+					"Jagerune"
 				],
 				"version": "2.0",
-				"url": "https://drive.google.com/file/d/1ufAyAnP4YTyJmOvyFQwnJZoTMTe95ETt/view",
+				"url": "http://giffyglyph.com/darkerdungeons/index.html",
 				"targetSchema": "1.0.0"
 			}
 		]
@@ -20,8 +20,8 @@
 	"book": [
 		{
 			"name": "Darker Dungeons",
-			"id": "DarkrDungeon",
-			"source": "DarkrDungeon",
+			"id": "GDD",
+			"source": "GDD",
 			"contents": [
 				{
 					"name": "Darker Dungeons",
