@@ -1,0 +1,113 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Jagerune",
+				"abbreviation": "JGR",
+				"full": "Jagerune",
+				"url": "",
+				"authors": [
+					"Jagerune"
+				],
+				"convertedBy": []
+			}
+		],
+		"dateAdded": 1583869620,
+		"dateLastModified": 1583869620
+	},
+	"monster": [
+		{
+			"name": "BLOOD HAWK TEST",
+			"source": "Jagerune",
+			"page": 319,
+			"srd": true,
+			"size": "S",
+			"type": "beast",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 7,
+				"formula": "2d6"
+			},
+			"speed": {
+				"walk": 10,
+				"fly": 60
+			},
+			"str": 6,
+			"dex": 14,
+			"con": 10,
+			"int": 3,
+			"wis": 14,
+			"cha": 5,
+			"skill": {
+				"perception": "+4"
+			},
+			"passive": 14,
+			"cr": "1/8",
+			"trait": [
+				{
+					"name": "Keen Sight",
+					"entries": [
+						"The hawk has advantage on Wisdom ({@skill Perception}) checks that rely on sight."
+					]
+				},
+				{
+					"name": "Pack Tactics",
+					"entries": [
+						"The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't {@condition incapacitated}."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Beak",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+					]
+				}
+			],
+			"environment": [
+				"arctic",
+				"coastal",
+				"forest",
+				"grassland",
+				"hill",
+				"mountain"
+			],
+			"soundClip": "https://media-waterdeep.cursecdn.com/file-attachments/0/57/blood-hawk.mp3",
+			"traitTags": [
+				"Keen Senses",
+				"Pack Tactics"
+			],
+			"damageTags": [
+				"P"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"fluff": {
+				"name": "Blood Hawk",
+				"source": "MM",
+				"entries": [
+					{
+						"type": "entries",
+						"entries": [
+							{
+								"type": "entries",
+								"entries": [
+									"Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey."
+								]
+							}
+						]
+					}
+				]
+			},
+			"tokenUrl": "https://5e.tools/img/MM/Blood Hawk.png?v=1.99.2",
+			"uniqueId": "6c87c3e52611bbdf1bbbb5719a0b6d12"
+		}
+	]
+}
