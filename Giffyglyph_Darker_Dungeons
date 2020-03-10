@@ -1,0 +1,226 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DarkrDungeon",
+				"abbreviation": "DarkrDungeon",
+				"full": "Darker Dungeons",
+				"authors": [
+					"GIFFYGLYPH"
+				],
+				"convertedBy": [
+					"NiceMan"
+				],
+				"version": "2.0",
+				"url": "https://drive.google.com/file/d/1ufAyAnP4YTyJmOvyFQwnJZoTMTe95ETt/view",
+				"targetSchema": "1.0.0"
+			}
+		]
+	},
+	"book": [
+		{
+			"name": "Darker Dungeons",
+			"id": "DarkrDungeon",
+			"source": "DarkrDungeon",
+			"contents": [
+				{
+					"name": "Darker Dungeons",
+					"headers": [
+						"Setting Up"
+					]
+				},
+				{
+					"name": "PART 1: Your Character",
+					"headers": [
+						"Character Creation",
+						"Rookie Characters",
+						"Feature Changes",
+						"Racial Changes",
+						"Class Changes"
+					]
+				},
+				{
+					"name": "PART 2: Equipment",
+					"headers": [
+						"Inventory Space",
+						"Wear & Tear",
+						"Ammunition"
+					]
+				},
+				{
+					"name": "PART 3: Taking Action",
+					"headers": [
+						"Taking Action",
+						"Active Defence",
+						"Active Initiative",
+						"Degrees of Success",
+						"Active XP",
+						"Dangerous Magic",
+						"Making a Journey"
+					]
+				},
+				{
+					"name": "PART 4: Life & Death",
+					"headers": [
+						"Wounds & Injuries",
+						"Death & Resurrection",
+						"Cheating Fate",
+						"Deadly Disease",
+						"Survival Conditions",
+						"Stress & Afflictions"
+					]
+				},
+				{
+					"name": "PART 5: Rest & Downtime",
+					"headers": [
+						"Short Rest",
+						"Long Rest",
+						"Leveling Up"
+					]
+				},
+				{
+					"name": "APPENDIX: The Extras",
+					"headers": [
+						"Random Tables",
+						"FAQ",
+						"Sheets & Trackers",
+						"What Next?"
+					]
+				}
+			]
+		}
+	],
+	"bookdata": [
+		{
+			"id": "FESTiV",
+			"source": "festivalAct",
+			"data": [
+				{
+					"type": "section",
+					"entries": [
+						{
+							"type": "section",
+							"name": "Setting Up",
+							"entries": [
+								"",
+								{
+									"type": "section",
+									"name": "Themes",
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "section",
+									"name": "How to get Started",
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "section",
+									"name": "Modes of Play",
+									"entries": [
+										""
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "PART 1: Your Character",
+					"entries": [
+						{
+							"type": "section",
+							"name": "Character Creation",
+							"page": 6,
+							"entries": [
+								""
+								{
+									"type": "section",
+									"name": "Random Characters",
+									"page": 6,
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "section",
+									"name": "Creation Dials",
+									"page": 10,
+									"entries": [
+										""
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Rookie Characters",
+							"page": 11,
+							"entries": [
+								""
+								{
+									"type": "section",
+									"name": "Creating a Rookie",
+									"page": 11,
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "section",
+									"name": "Destiny Points",
+									"page": 12,
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "section",
+									"name": "Rookie Adventures",
+									"page": 12,
+									"entries": [
+										""
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "PART 2: Equipment",
+					"entries": [
+						{
+
+// more stuff which you'll need to inject structure upon
+
+	],
+
+	"class":[
+
+	],
+
+	"subclass":[
+
+	],
+
+	"optionfeature": [
+
+	],
+
+	"item": [
+
+	],
+
+	"disease": [
+
+	],
+
+	"table": [
+
+	]
+}
